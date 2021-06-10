@@ -2,7 +2,7 @@
 Sistema de Gestion de alumnos en nucleos FUNDAMUSICAL
 ## Lenguaje
 Python
-## Interfaz, Librerias
-wxPython, simpleCV, reportlab
+## Librerias
+wxPython (GUI), simpleCV (Manejo de Cámara Web), reportlab (Reportes PDF)
 # Base de datos
 SQLite
